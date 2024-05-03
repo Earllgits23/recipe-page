@@ -111,7 +111,7 @@ tr:not(:last-child) td {
 
 @media screen and (max-width: 375px) {
   body {
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(0, 0%, 100%);
     display: static;
     padding: 0px;
     margin: 0px;
